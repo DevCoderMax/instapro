@@ -1,2 +1,2 @@
-# <span style="color:blue">instapro</span>
-A library to interact with <span style="color:red">Instagram</span> in a simplified way.
+# instapro
+## A library to interact with Instagram in a simplified way.
